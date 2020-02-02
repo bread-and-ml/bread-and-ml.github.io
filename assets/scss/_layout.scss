@@ -40,8 +40,9 @@ hr {
 
 .container {
   padding: $base-spacing;
-  margin-left: 15%;
-  margin-right: 15%;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1200px;
   font-weight: normal;
 }
 
@@ -94,7 +95,7 @@ hr {
   margin: 0 0 1em 0;
   cursor: pointer;
   letter-spacing: 0.8px;
-  font-size: 25px;
+  font-size: 20px;
   line-height: 28px;
   font-weight: 300;
 
