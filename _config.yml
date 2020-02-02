@@ -3,7 +3,7 @@ title_left    : "🍞Bread"
 title_right   : "&ML🔮"
 description   : "Datascience and Baking"
 keywords      : ""
-url           : https://heiswayi.github.io/thinkspace # site url
+url           : https://bread-and-ml.github.io/ # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
@@ -28,7 +28,7 @@ sass:
 
 # Author settings
 author:
-  name     : "John Doe"
+  name     : "Patrick"
 
 plugins:
   - jekyll-sitemap
